@@ -27,15 +27,6 @@ $ JEKYLL_ENV=production bundle exec jekyll build
 # Copy the compiled codes from _site/ to html server.
 ```
 
-## Import and Commit
-
-```
-$ cd .../gems/jekyll-import-{version}/lib/jekyll-import/importers/
-$ vim rssinitium.rb rssmatters.rb rssvocus.rb # Customize importers.
-
-$ ./_feed.sh  # Batch import and commit posts.
-```
-
 ## List of Features
 
 - [x] Batch and Automate - Check out the [issue comment](https://github.com/agorahub/news0/issues/1#issuecomment-597540617)
