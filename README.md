@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  BLOG⓪
+#title: BLOG⓪
 permalink: /readme/
 comments_repo: agorahub/blog0
 comments_id: 1
 ---
 
-Read blogs on demand.
+Read blog on demand.
 
 | Source  | Importer   | Update |
 | :-----  | :-------   | :----- |
